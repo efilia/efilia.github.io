@@ -1,15 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://efilia.github.io</id>
+    <id>https://efilia.github.io</id>
     <title>efilia&#39;s blog • Posts by &#34;随笔&#34; tag</title>
-    <link href="http://efilia.github.io" />
+    <link href="https://efilia.github.io" />
     <updated>2023-09-23T12:48:19.000Z</updated>
     <category term="随笔" />
     <category term="测试" />
+    <category term="linux" />
     <entry>
-        <id>http://efilia.github.io/suixie/</id>
+        <id>https://efilia.github.io/suixie/</id>
         <title>随笔</title>
-        <link rel="alternate" href="http://efilia.github.io/suixie/"/>
+        <link rel="alternate" href="https://efilia.github.io/suixie/"/>
         <content type="html">&lt;p&gt;&lt;div class=&#34;media-container&#34;&gt;&lt;div class=&#34;player&#34; data-type=&#34;audio&#34; data-src=&#39;[{&#34;title&#34;:&#34;列表 1&#34;,&#34;list&#34;:[&#34;https://music.163.com/#/playlist?id=2105474477&#34;]}]&#39;&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;
  不知道写啥，随便写写 emmmmmmm&lt;/p&gt;
 &lt;details class=&#34;info&#34;&gt;&lt;summary&gt;诶嘿&lt;/summary&gt;&lt;div&gt;

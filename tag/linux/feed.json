@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "efilia's blog • All posts by \"linux\" tag",
+    "description": null,
+    "home_page_url": "https://efilia.github.io",
+    "items": [
+        {
+            "id": "https://efilia.github.io/linuxcm/",
+            "url": "https://efilia.github.io/linuxcm/",
+            "title": "linux有趣的命令",
+            "date_published": "2023-09-30T18:19:19.000Z",
+            "content_html": "<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>命令行提示符</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token function\">curl</span> wttr.in/地址 <span class=\"token comment\">#查询天气</span></pre></td></tr></table></figure>",
+            "tags": [
+                "linux"
+            ]
+        }
+    ]
+}

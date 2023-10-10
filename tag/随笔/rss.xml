@@ -2,17 +2,18 @@
 <rss version="2.0">
     <channel>
         <title>efilia&#39;s blog • Posts by &#34;随笔&#34; tag</title>
-        <link>http://efilia.github.io</link>
+        <link>https://efilia.github.io</link>
         <description></description>
         <language>zh-CN</language>
         <pubDate>Sat, 23 Sep 2023 20:48:19 +0800</pubDate>
         <lastBuildDate>Sat, 23 Sep 2023 20:48:19 +0800</lastBuildDate>
         <category>随笔</category>
         <category>测试</category>
+        <category>linux</category>
         <item>
-            <guid isPermalink="true">http://efilia.github.io/suixie/</guid>
+            <guid isPermalink="true">https://efilia.github.io/suixie/</guid>
             <title>随笔</title>
-            <link>http://efilia.github.io/suixie/</link>
+            <link>https://efilia.github.io/suixie/</link>
             <category>随笔</category>
             <pubDate>Sat, 23 Sep 2023 20:48:19 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;div class=&#34;media-container&#34;&gt;&lt;div class=&#34;player&#34; data-type=&#34;audio&#34; data-src=&#39;[{&#34;title&#34;:&#34;列表 1&#34;,&#34;list&#34;:[&#34;https://music.163.com/#/playlist?id=2105474477&#34;]}]&#39;&gt;&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;

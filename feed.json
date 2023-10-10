@@ -2,11 +2,21 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "efilia's blog",
     "description": null,
-    "home_page_url": "http://efilia.github.io",
+    "home_page_url": "https://efilia.github.io",
     "items": [
         {
-            "id": "http://efilia.github.io/suixie/",
-            "url": "http://efilia.github.io/suixie/",
+            "id": "https://efilia.github.io/linuxcm/",
+            "url": "https://efilia.github.io/linuxcm/",
+            "title": "linux有趣的命令",
+            "date_published": "2023-09-30T18:19:19.000Z",
+            "content_html": "<figure class=\"highlight bash\"><figcaption data-lang=\"bash\"><span>命令行提示符</span></figcaption><table><tr><td data-num=\"1\"></td><td><pre><span class=\"token function\">curl</span> wttr.in/地址 <span class=\"token comment\">#查询天气</span></pre></td></tr></table></figure>",
+            "tags": [
+                "linux"
+            ]
+        },
+        {
+            "id": "https://efilia.github.io/suixie/",
+            "url": "https://efilia.github.io/suixie/",
             "title": "随笔",
             "date_published": "2023-09-23T12:48:19.000Z",
             "content_html": "<p><div class=\"media-container\"><div class=\"player\" data-type=\"audio\" data-src='[{\"title\":\"列表 1\",\"list\":[\"https://music.163.com/#/playlist?id=2105474477\"]}]'></div></div><br />\n 不知道写啥，随便写写 emmmmmmm</p>\n<details class=\"info\"><summary>诶嘿</summary><div>\n<div class=\"tab\" data-id=\"id3\" data-title=\"2333\">\n<p>没... 这里没东西</p>\n</div>\n<div class=\"tab\" data-id=\"id3\" data-title=\"别点这里\">\n<p>这里真的没东西</p>\n</div>\n</div></details>\n<details><summary>ayoxinxin的乱杀局</summary><div>\n<p>\n<iframe src=\"//player.bilibili.com/player.html?aid=228835463&bvid=BV1yh411w7up&cid=1134144482&p=1&autoplay=0\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" width=800 height=600> </iframe>\n</p>\n</div></details>\n<p><img data-src=\"https://s2.loli.net/2023/09/24/XjObEYiQkNIZThg.png\" alt=\"\" /></p>\n<p><img data-src=\"https://s2.loli.net/2023/09/25/S2AsYbRPwkZrLIf.jpg\" alt=\"\" /></p>\n",
@@ -15,8 +25,8 @@
             ]
         },
         {
-            "id": "http://efilia.github.io/test1/",
-            "url": "http://efilia.github.io/test1/",
+            "id": "https://efilia.github.io/test1/",
+            "url": "https://efilia.github.io/test1/",
             "title": "你好！世界",
             "date_published": "2023-09-23T12:48:16.000Z",
             "content_html": "<h2 id=\"hello-world\"><a class=\"anchor\" href=\"#hello-world\">#</a> Hello World!</h2>\n<p><img data-src=\"https://i.imgtg.com/2023/03/09/Y0hOs.jpg\" alt=\"\" /></p>\n<p>Per Aspera,<br />\nAd Astra.</p>\n<p>\n<iframe frameborder=\"no\" border=\"0\" marginwidth=\"0\" marginheight=\"0\" width=330 height=86 src=\"//music.163.com/outchain/player?type=2&id=1302574615&auto=1&height=66\"></iframe>\n</p>\n",
