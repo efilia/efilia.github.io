@@ -54,9 +54,11 @@
   --color-pink-light: rgba(255,230,250,0.72);
   --color-cyan-light-old: #e3fdf5;
   --color-cyan-light: rgba(227,253,245,0.72);
-  --color-red: #e9546b;
-  --color-pink: #ed6ea0;
-  --color-orange: #ec8c69;
+  --color-paleturquoise-light-old: #afeeee;
+  --color-paleturquoise-light: rgba(175,238,238,0.72);
+  --color-red: #00dfee;
+  --color-pink: #3ff;
+  --color-orange: #aeefff;
   --color-yellow: #eab700;
   --color-green: #0a7426;
   --color-aqua: #3e999f;
@@ -65,7 +67,7 @@
   --color-grey: #869194;
   --color-red-a1: rgba(233,84,107,0.1);
   --color-red-a3: rgba(233,84,107,0.3);
-  --color-pink-a3: rgba(237,110,160,0.3);
+  --color-pink-a3: rgba(51,221,221,0.3);
   --color-pink-light-a3: rgba(255,230,250,0.3);
   --color-pink-light-a5: rgba(255,230,250,0.5);
   --color-pink-light-a7: rgba(255,230,250,0.7);
@@ -125,9 +127,9 @@
   --grey-2-a0: rgba(54,54,54,0);
   --color-pink-light: #322d31;
   --color-cyan-light: #2d3230;
-  --color-red: rgba(237,118,137,0.9);
-  --color-pink: rgba(241,139,179,0.8);
-  --color-orange: rgba(240,163,135,0.8);
+  --color-red: rgba(92,255,255,0.9);
+  --color-pink: rgba(89,184,190,0.8);
+  --color-orange: rgba(190,242,255,0.8);
   --color-yellow: #ffe175;
   --color-green: #86c59d;
   --color-aqua: #97d3d6;
